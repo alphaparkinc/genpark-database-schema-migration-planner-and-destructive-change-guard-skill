@@ -1,0 +1,8 @@
+{
+  "name": "genpark-database-schema-migration-planner-and-destructive-change-guard-skill",
+  "version": "1.0.0",
+  "description": "Declarative schema diff comparator, destructive SQL operation detector, and zero-downtime migration planner",
+  "entrypoint": "client.py",
+  "author": "GenPark",
+  "license": "MIT"
+}
